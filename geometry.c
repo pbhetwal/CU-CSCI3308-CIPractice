@@ -1,4 +1,4 @@
-/*
+/*MY NAME: Parikshit Bhetwal
  * geometry.c
  * Andy Sayler
  * CSCI 3308

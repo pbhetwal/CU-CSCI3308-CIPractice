@@ -1,5 +1,6 @@
-/*
+/*MY NAME: Parikshit Bhetwal
  * geometry_test.c
+ * MY NAME: Parikshit Bhetwal
  * Andy Sayler
  * CSCI 3308
  * Summer 2014
