@@ -2,7 +2,7 @@ CU-CSCI3308-CIPractice
 ======================
 
 Assignment to practice the use of continuous integration tools.
-##MY NAME 
+### MY NAME 
 Parikshit Bhetwal
 ### Author
 Andy Sayler  
