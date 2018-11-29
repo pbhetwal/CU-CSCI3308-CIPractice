@@ -1,5 +1,5 @@
-#Build fails at 'make dep' if sudo apt-get update is not added
-install: sudo apt-get update
+#Build fails at 'make dep' if sudo apt-get install pkg-config is not added
+install: sudo apt-get install pkg-config
 sudo: required
 language: c
 compiler: gcc
