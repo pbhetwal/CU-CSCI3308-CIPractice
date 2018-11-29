@@ -1,3 +1,4 @@
+#Build fails at 'make dep' if sudo apt-get update is not added
 install: sudo apt-get update
 sudo: required
 language: c
