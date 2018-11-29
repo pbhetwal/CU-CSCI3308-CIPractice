@@ -1,6 +1,5 @@
 install: make get-deps
 sudo: required
-language: c
 compiler:
   - gcc
 script: make dep && make && make test
