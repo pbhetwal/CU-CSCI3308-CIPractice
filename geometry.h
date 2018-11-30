@@ -1,4 +1,5 @@
-/*MY NAME: Parikshit Bhetwal
+/* MY NAME: Parikshit Bhetwal
+ * PARTNER: Omer Eldar
  * geometry.h
  * Andy Sayler
  * CSCI 3308

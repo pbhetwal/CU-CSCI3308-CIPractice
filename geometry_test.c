@@ -1,6 +1,6 @@
-/*MY NAME: Parikshit Bhetwal
+/* MY NAME: Parikshit Bhetwal
+ * PARTNER: Omer Eldar
  * geometry_test.c
- * MY NAME: Parikshit Bhetwal
  * Andy Sayler
  * CSCI 3308
  * Summer 2014
